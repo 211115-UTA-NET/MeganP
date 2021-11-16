@@ -1,5 +1,6 @@
 #! user/bin/bash
 
-git add .
+read fileName
+git add fileName
 git commit -m "Example Git Push with Bash"
 git push
