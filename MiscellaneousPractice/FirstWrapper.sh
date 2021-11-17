@@ -14,6 +14,13 @@ do
 done
 
 
+echo -n "2" >> ExampleFile.txt
+for j in {4..20..2}
+do 
+	echo -n ", $j" >> ExampleFile.txt
+done
+
+echo $strNums >> ExampleFile.txt
 
 
 
