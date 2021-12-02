@@ -1,0 +1,15 @@
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\bin\Debug\net6.0\PracticeASP.exe
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\bin\Debug\net6.0\PracticeASP.deps.json
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\bin\Debug\net6.0\PracticeASP.runtimeconfig.json
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\bin\Debug\net6.0\PracticeASP.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\bin\Debug\net6.0\ref\PracticeASP.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\bin\Debug\net6.0\PracticeASP.pdb
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\obj\Debug\net6.0\PracticeASP.csproj.AssemblyReference.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\obj\Debug\net6.0\PracticeASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\obj\Debug\net6.0\PracticeASP.AssemblyInfoInputs.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\obj\Debug\net6.0\PracticeASP.AssemblyInfo.cs
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\obj\Debug\net6.0\PracticeASP.csproj.CoreCompileInputs.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\obj\Debug\net6.0\PracticeASP.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\obj\Debug\net6.0\ref\PracticeASP.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\obj\Debug\net6.0\PracticeASP.pdb
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\PracticeASP\obj\Debug\net6.0\PracticeASP.genruntimeconfig.cache

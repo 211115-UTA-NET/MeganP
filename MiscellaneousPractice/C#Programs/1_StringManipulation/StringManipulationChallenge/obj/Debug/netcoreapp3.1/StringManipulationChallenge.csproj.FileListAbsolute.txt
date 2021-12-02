@@ -52,3 +52,17 @@ C:\Users\hiby1\Desktop\Revature\Resources\trainer-code\wk1\CExercises\1_StringMa
 C:\Users\hiby1\Desktop\Revature\Resources\trainer-code\wk1\CExercises\1_StringManipulation\StringManipulationChallenge\bin\Debug\netcoreapp3.1\StringManipulationChallenge.dll
 C:\Users\hiby1\Desktop\Revature\Resources\trainer-code\wk1\CExercises\1_StringManipulation\StringManipulationChallenge\bin\Debug\netcoreapp3.1\StringManipulationChallenge.pdb
 C:\Users\hiby1\Desktop\Revature\Resources\trainer-code\wk1\CExercises\1_StringManipulation\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.genruntimeconfig.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.csproj.AssemblyReference.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.AssemblyInfoInputs.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.AssemblyInfo.cs
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.pdb
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\bin\Debug\netcoreapp3.1\StringManipulationChallenge.exe
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\bin\Debug\netcoreapp3.1\StringManipulationChallenge.deps.json
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\bin\Debug\netcoreapp3.1\StringManipulationChallenge.runtimeconfig.json
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\bin\Debug\netcoreapp3.1\StringManipulationChallenge.runtimeconfig.dev.json
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\bin\Debug\netcoreapp3.1\StringManipulationChallenge.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\bin\Debug\netcoreapp3.1\StringManipulationChallenge.pdb
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\1_StringManipulation\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.genruntimeconfig.cache

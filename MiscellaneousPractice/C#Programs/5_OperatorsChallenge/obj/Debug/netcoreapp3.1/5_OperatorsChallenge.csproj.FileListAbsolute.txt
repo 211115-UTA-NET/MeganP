@@ -1,0 +1,14 @@
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.csproj.AssemblyReference.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.AssemblyInfoInputs.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.AssemblyInfo.cs
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.exe
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.deps.json
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.runtimeconfig.json
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.runtimeconfig.dev.json
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.pdb
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.pdb
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\5_OperatorsChallenge\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.genruntimeconfig.cache

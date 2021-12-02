@@ -20,7 +20,6 @@ namespace StringManipulationChallenge
             		//implement the required code here and within the methods below.
             		//
             		//
-
 			Console.WriteLine("Please Enter Your First Name: ");
 			fName = Console.ReadLine();
 			Console.WriteLine("Please Enter You Last Name: ");

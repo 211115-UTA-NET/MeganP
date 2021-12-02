@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pF66UVshsY0xMrIoVA7bIFPziQy5P2ZKlZnZdpXEE63rsiElBycJeOzGfjstJ4JDW7LQEnqKA62FsYDPsfFK2Q==",
+  "dgSpecHash": "edesgQHERIzFvTKzS1y/NbvwMbd6Gj6bizFnP04P6VNtxTgoDZaB51+4SUfmxRKGceWBJ24mUmsryAygn6iG4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hiby1\\Desktop\\Revature\\Resources\\trainer-code\\wk1\\CExercises\\1_StringManipulation\\StringManipulationChallenge\\StringManipulationChallenge.csproj",
+  "projectFilePath": "C:\\Users\\hiby1\\Desktop\\Revature\\MeganP\\MiscellaneousPractice\\C#Programs\\1_StringManipulation\\StringManipulationChallenge\\StringManipulationChallenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hiby1\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\hiby1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",

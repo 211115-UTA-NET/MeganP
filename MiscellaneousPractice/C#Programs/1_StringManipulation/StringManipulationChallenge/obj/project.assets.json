@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hiby1\\Desktop\\Revature\\Resources\\trainer-code\\wk1\\CExercises\\1_StringManipulation\\StringManipulationChallenge\\StringManipulationChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\hiby1\\Desktop\\Revature\\MeganP\\MiscellaneousPractice\\C#Programs\\1_StringManipulation\\StringManipulationChallenge\\StringManipulationChallenge.csproj",
       "projectName": "StringManipulationChallenge",
-      "projectPath": "C:\\Users\\hiby1\\Desktop\\Revature\\Resources\\trainer-code\\wk1\\CExercises\\1_StringManipulation\\StringManipulationChallenge\\StringManipulationChallenge.csproj",
+      "projectPath": "C:\\Users\\hiby1\\Desktop\\Revature\\MeganP\\MiscellaneousPractice\\C#Programs\\1_StringManipulation\\StringManipulationChallenge\\StringManipulationChallenge.csproj",
       "packagesPath": "C:\\Users\\hiby1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hiby1\\Desktop\\Revature\\Resources\\trainer-code\\wk1\\CExercises\\1_StringManipulation\\StringManipulationChallenge\\obj\\",
+      "outputPath": "C:\\Users\\hiby1\\Desktop\\Revature\\MeganP\\MiscellaneousPractice\\C#Programs\\1_StringManipulation\\StringManipulationChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hiby1\\AppData\\Roaming\\NuGet\\NuGet.Config"

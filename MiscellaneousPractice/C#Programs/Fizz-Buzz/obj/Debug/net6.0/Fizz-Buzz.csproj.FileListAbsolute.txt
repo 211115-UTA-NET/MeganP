@@ -1,0 +1,15 @@
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\obj\Debug\net6.0\Fizz-Buzz.csproj.AssemblyReference.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\obj\Debug\net6.0\Fizz-Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\obj\Debug\net6.0\Fizz-Buzz.AssemblyInfoInputs.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\obj\Debug\net6.0\Fizz-Buzz.AssemblyInfo.cs
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\obj\Debug\net6.0\Fizz-Buzz.csproj.CoreCompileInputs.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\bin\Debug\net6.0\Fizz-Buzz.exe
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\bin\Debug\net6.0\Fizz-Buzz.deps.json
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\bin\Debug\net6.0\Fizz-Buzz.runtimeconfig.json
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\bin\Debug\net6.0\Fizz-Buzz.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\bin\Debug\net6.0\ref\Fizz-Buzz.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\bin\Debug\net6.0\Fizz-Buzz.pdb
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\obj\Debug\net6.0\Fizz-Buzz.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\obj\Debug\net6.0\ref\Fizz-Buzz.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\obj\Debug\net6.0\Fizz-Buzz.pdb
+C:\Users\hiby1\Desktop\Revature\MeganP\MiscellaneousPractice\C#Programs\Fizz-Buzz\obj\Debug\net6.0\Fizz-Buzz.genruntimeconfig.cache
