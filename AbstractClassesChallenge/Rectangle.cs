@@ -37,7 +37,7 @@ namespace AbstractClassesChallenge
 	}
 
 	protected override void SetArea() {
-		this.area = side1*side2;
+		base.area = side1*side2;
 	}
     }
 }

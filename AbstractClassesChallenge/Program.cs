@@ -13,6 +13,10 @@ namespace AbstractClassesChallenge
 	    tri.GetInfo();
 	    rect.GetInfo();
 	    square.GetInfo();
+
+	    Console.WriteLine(tri.GetArea());
+	    Console.WriteLine(rect.GetArea());
+	    Console.WriteLine(square.GetArea());
         }
     }
 }

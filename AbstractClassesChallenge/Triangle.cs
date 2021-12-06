@@ -42,7 +42,7 @@ namespace AbstractClassesChallenge
 
 	protected override void SetArea() {
 		double sp = (this.side1 + this.side2 + this.side3) / 2;
-		this.area = Math.Sqrt(sp*(sp - this.side1)*(sp - this.side2)*(sp - this.side3));
+		base.area = Math.Sqrt(sp*(sp - this.side1)*(sp - this.side2)*(sp - this.side3));
 	}
     }
 }
