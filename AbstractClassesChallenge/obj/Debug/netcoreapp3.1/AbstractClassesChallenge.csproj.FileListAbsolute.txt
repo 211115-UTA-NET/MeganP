@@ -1,0 +1,14 @@
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.csproj.AssemblyReference.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.AssemblyInfoInputs.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.AssemblyInfo.cs
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.exe
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.deps.json
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.runtimeconfig.json
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.runtimeconfig.dev.json
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.pdb
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.dll
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.pdb
+C:\Users\hiby1\Desktop\Revature\MeganP\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.genruntimeconfig.cache

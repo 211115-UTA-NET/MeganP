@@ -6,7 +6,13 @@ namespace AbstractClassesChallenge
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Triangle tri = new Triangle(12, 12, 12);
+	    Rectangle rect = new Rectangle(12, 15);
+	    Square square = new Square(4);
+
+	    tri.GetInfo();
+	    rect.GetInfo();
+	    square.GetInfo();
         }
     }
 }
